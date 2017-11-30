@@ -1,0 +1,24 @@
+{
+  "name": "learnnodev1",
+  "version": "1.0.0",
+  "description": "Explore node.js, npm and github together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonjzgithub/LearnNodeV1.git"
+  },
+  "author": "Jason Zhang <jasonjz@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ],  
+  "bugs": {
+    "url": "https://github.com/jasonjzgithub/LearnNodeV1/issues"
+  },
+  "homepage": "https://github.com/jasonjzgithub/LearnNodeV1#readme"
+}
